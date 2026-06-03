@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# AI search crawlers — explicitly welcome
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://splashinsaturdayssundays.ca/sitemap.xml
